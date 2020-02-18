@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Righteous', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgb(106, 106, 106), rgb(17, 17, 17));
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
