@@ -4,7 +4,7 @@ import "./FaceDetection.css";
 const FaceDetection = ({url, box}) => {
     return (
         <div className="center">
-            <div className="absolute mt2 pa3">
+            <div className="absolute mt2 mb2">
             <img 
             src={url}
             alt=""

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Signin = ({onRouteChange}) => {
     return (
-    <article className="br3 ba bg-mid-gray b--black-10 mv4 w-100 w-50-m w-25-l mw7 center shadow-5">
+    <article className="br3 ba bg-mid-gray b--black-10 mv4 w-80 w-50-m w-25-l mw7 center shadow-5">
         <main className="pa5 white-80">
             <div className="measure">
                 <fieldset id="sign_up" className="ba b--transparent ph0 mh0">

@@ -7,7 +7,7 @@ const InputImageURL = ({onInputChange, onClickInput}) => {
             <div className="f4 center white pa3">
                         {`The magic AI will detect if there's a face in your picture. Give it a try!`}
             </div>
-            <div className="center pattern w-50 pa4 br3">
+            <div className="center pattern w-90 pa4 br3">
                         <input 
                         className="input-reset ba b--black-20 pa2 mb2 db w-70" 
                         type="text" 
